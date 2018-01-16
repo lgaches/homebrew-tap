@@ -1,5 +1,5 @@
 $version = "0.0.2"
-$hash = "c2e723da90d3f81caff2ebc00584fc81cd50ed3be350ae673e7917e4173b9c28"
+$hash = "c30812bb758cebf1d3e28f5294ac30253e5895385c72f889fb5eaf3587dfde67"
 
 class Cmosquitto < Formula
   homepage "https://github.com/lgaches/CMosquitto"
