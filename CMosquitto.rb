@@ -7,8 +7,8 @@ class Cmosquitto < Formula
   sha256 $hash
   version $version
 
-  depends_on "pkg-config" => :run
-  depends_on "mosquitto" => :run
+  depends_on "pkg-config"
+  depends_on "mosquitto"
 
   def install
     system "mkdir pkgconfig"
